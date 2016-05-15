@@ -17,3 +17,8 @@
 名称  | 简介
 ---- | ----
 [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) | 这是一篇博客文章，内容相当的多，作者从零搭建了一个实时投票系统，从服务端到浏览器前端，介绍了如何使用[mocha](https://mochajs.org/),[chai](http://chaijs.com/)进行功能测试，如何使用[Immutable.js](https://github.com/facebook/immutable-js)，以及如何进行react组件的测试。作者在整篇文章中，一点点引入redux中的概念，深入浅出。还有一点非常有意思的是，作者在前后端分别建立了个redux。
+
+## stackoverflow上的问答
+问题  |  简介
+---- | ----
+[How to dispatch a Redux action with a timeout?](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559) | 回答者是Redux的作者，阐述了如何在Redux中进行异步操作，什么情况下需要对异步操作进行封装，以及redux-thunk中间件的使用。
