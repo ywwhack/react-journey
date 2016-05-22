@@ -13,6 +13,7 @@
 [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.3tk94s6k0) | 介绍了react中Presentational和Container Components的概念和区别，以及使用场景
 [React Components, Elements, and Instances](https://facebook.github.io/react/blog/2015/12/18/react-components-elements-and-instances.html) | 详细介绍了React中令人困惑的Component和Element的区别，以及React底层是如何将Component解析为DOM树的。
 [初识React中的High Order Component](https://leozdgao.me/chushi-hoc/) | 介绍了react中的高阶组件，通俗易懂，顺带还提了下react-redux中的connect的实现。
+[reactjs源码分析-上篇（首次渲染实现原理）](http://purplebamboo.github.io/2015/09/15/reactjs_source_analyze_part_one/) | 研究React源码的入门指南，非常赞，全篇围绕React的渲染方法render展开讲解，递进的引入Component,ReactElement,ReactClass，对之后的源码阅读很有帮助。
 
 ## Redux
 ### 教程
