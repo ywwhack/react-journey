@@ -6,6 +6,7 @@
 名称  |  简介
 ---- | ----
 [reactjsprogram](http://www.reactjsprogram.com/) | 强烈建议英文好的童鞋去看看，第一部分是带着你从零构建一个github相关的小项目，讲了很多react重要的概念，作为入门和建立正确的react方法论很有用。该系列分react基础、es6/es7与react的结合、Redux+Immutable、react native和universal react，只有第一部分是免费的，其余都是付费的（相当贵）。
+[fullstackreact](https://www.fullstackreact.com/) | 整本书会涉及好几个项目的构建，由易到难。第一个项目是一个类似stackoverflow的投票系统，非常基础，没有es6，没有webpack，只是单纯的教你如何使用Component的思想开发应用。
 
 ### 文章
 名称  |  简介
