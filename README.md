@@ -15,6 +15,7 @@
 [React Components, Elements, and Instances](https://facebook.github.io/react/blog/2015/12/18/react-components-elements-and-instances.html) | 详细介绍了React中令人困惑的Component和Element的区别，以及React底层是如何将Component解析为DOM树的。
 [初识React中的High Order Component](https://leozdgao.me/chushi-hoc/) | 介绍了react中的高阶组件，通俗易懂，顺带还提了下react-redux中的connect的实现。
 [reactjs源码分析-上篇（首次渲染实现原理）](http://purplebamboo.github.io/2015/09/15/reactjs_source_analyze_part_one/) | 研究React源码的入门指南，非常赞，全篇围绕React的渲染方法render展开讲解，递进的引入Component,ReactElement,ReactClass，对之后的源码阅读很有帮助。
+[Learning React Without Using React](https://medium.com/javascript-inside/learn-the-concepts-part-1-418952d968cb#.6e7z5tvgq) | 作者抛开react库本身，围绕react中的render方法,virtual DOM,Component,单向数据流动等概念，实现了一个todolist的例子，demo虽易，但是思想非常棒。
 
 ## Redux
 ### 教程
