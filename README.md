@@ -30,6 +30,12 @@
 [so-youve-screwed-up-your-redux-store-or-why-redux-makes-refactoring-easy](https://blog.boldlisting.com/so-youve-screwed-up-your-redux-store-or-why-redux-makes-refactoring-easy-400e19606c71?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_32#.1po5f1k30) | 主要讲述了对reducers的几种改进方式来对redux进行重构。
 [The Redux Journey](https://www.youtube.com/watch?v=uvAXVMwHJXU&feature=youtu.be) | Dan在react-europe 2016上关于redux一年发展过程的总结，并且示范了如何使用redux的优秀特性。
 
+## GraphQL && Relay
+### 教程
+名称 | 简介
+---- | ----
+[https://learngraphql.com](https://learngraphql.com) | 非常详细的介绍了graphql的基础用法，很好的入门教程。
+
 
 ## 问答
 问题  |  简介
