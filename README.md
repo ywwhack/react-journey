@@ -41,7 +41,8 @@
 问题  |  简介
 ---- | ----
 [How to dispatch a Redux action with a timeout?](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559) | 回答者是Redux的作者，阐述了如何在Redux中进行异步操作，什么情况下需要对异步操作进行封装，以及redux-thunk中间件的使用。
-[Why is 'key' needed?](https://www.reddit.com/r/reactjs/comments/4mjdcf/why_cant_i_put_key_in_default_props_or_define_the/d3xwa6m) | 解释了为什么在一个React Elements数组中需要指定每个元素的key属性。 
+[Why is 'key' needed?](https://www.reddit.com/r/reactjs/comments/4mjdcf/why_cant_i_put_key_in_default_props_or_define_the/d3xwa6m) | 解释了为什么在一个React Elements数组中需要指定每个元素的key属性。
+[what-does-webpack-mean-by-xx-hidden-modules](https://stackoverflow.com/questions/28858176/what-does-webpack-mean-by-xx-hidden-modules) | webpack运行时,控制台出现+n hidden modules的原因。
 
 ## Newsletter
 * [http://reactjsnewsletter.com/](http://reactjsnewsletter.com/)
