@@ -36,6 +36,12 @@
 ---- | ----
 [https://learngraphql.com](https://learngraphql.com) | 非常详细的介绍了graphql的基础用法，很好的入门教程。
 
+## Webpack
+### 教程
+名称 | 简介
+---- | ----
+[http://survivejs.com/webpack/introduction/](http://survivejs.com/webpack/introduction/) | 目前看过最全面，也是唯一一本专门介绍webpack的书（webpack是个巨坑＝＝）。
+
 
 ## 问答
 问题  |  简介
