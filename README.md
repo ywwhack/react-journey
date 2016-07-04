@@ -42,6 +42,11 @@
 ---- | ----
 [http://survivejs.com/webpack/introduction/](http://survivejs.com/webpack/introduction/) | 目前看过最全面，也是唯一一本专门介绍webpack的书（webpack是个巨坑＝＝）。
 
+## 其他
+名称 | 简介
+---- | ----
+[http://flexbox.io/](http://flexbox.io/) | flexbox视频教程，共20个小视频，前13小节讲述了flexbox的各种属性，后7小节实例演示。
+
 
 ## 问答
 问题  |  简介
