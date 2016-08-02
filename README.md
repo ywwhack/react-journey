@@ -46,6 +46,7 @@
 名称 | 简介
 ---- | ----
 [http://flexbox.io/](http://flexbox.io/) | flexbox视频教程，共20个小视频，前13小节讲述了flexbox的各种属性，后7小节实例演示。
+[Functional Programming in JavaScript](https://www.manning.com/books/functional-programming-in-javascript) | React生态圈中到处透露着函数式编程的思想，这本书对于函数式编程接触较少的人来说内容非常丰富，并且一些地方讲的比较深入，适合多次阅读。
 
 
 ## 问答
