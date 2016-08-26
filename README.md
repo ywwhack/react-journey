@@ -7,7 +7,6 @@
 ---- | ----
 [reactjsprogram](http://www.reactjsprogram.com/) | 强烈建议英文好的童鞋去看看，第一部分是带着你从零构建一个github相关的小项目，讲了很多react重要的概念，作为入门和建立正确的react方法论很有用。该系列分react基础、es6/es7与react的结合、Redux+Immutable、react native和universal react，只有第一部分是免费的，其余都是付费的（相当贵）。
 [fullstackreact](https://www.fullstackreact.com/) | 整本书会涉及好几个项目的构建，由易到难。第一个项目是一个类似stackoverflow的投票系统，非常基础，没有es6，没有webpack，只是单纯的教你如何使用Component的思想开发应用。第二个应用展示了搭建react app的正确步骤，并在上一个应用的基础上加了服务端数据的获取。
-[How to write your own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060#.uqcirh1ic) | react造轮子系列，教你如何实现一个简单的类react的库，比直接看源码来深入了解react方便多了。
 
 ### 文章
 名称  |  简介
@@ -19,6 +18,7 @@
 [React.js in patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_38) | react的设计模式
 [初识React中的High Order Component](https://leozdgao.me/chushi-hoc/) | 介绍了react中的高阶组件，通俗易懂，顺带还提了下react-redux中的connect的实现。
 [React Higher Order Components in depth](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.4twzbtufq) | 介绍了高阶组件(HOC)的两种实现方式，以及如何通过它来重用代码、操作WrappedComponent的props/state，render劫持等等。
+[Progressive loading for modern web applications via code splitting](https://medium.com/@lavrton/progressive-loading-for-modern-web-applications-via-code-splitting-fb43999735c6#.yi8ev5c95) | 介绍了如何使用require.ensure来实现code-split，同时实现延迟加载。
 
 ## Redux
 ### 教程
