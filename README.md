@@ -19,7 +19,6 @@
 [初识React中的High Order Component](https://leozdgao.me/chushi-hoc/) | 介绍了react中的高阶组件，通俗易懂，顺带还提了下react-redux中的connect的实现。
 [React Higher Order Components in depth](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.4twzbtufq) | 介绍了高阶组件(HOC)的两种实现方式，以及如何通过它来重用代码、操作WrappedComponent的props/state，render劫持等等。
 [Progressive loading for modern web applications via code splitting](https://medium.com/@lavrton/progressive-loading-for-modern-web-applications-via-code-splitting-fb43999735c6#.yi8ev5c95) | 介绍了如何使用require.ensure来实现code-split，同时实现延迟加载。
-[CSS Modules by Example](http://andrewhfarmer.com/css-modules-by-example/?utm_campaign=Fullstack%2BReact&utm_medium=web&utm_source=Fullstack_React_22) | 7个例子涵盖了css modules在React开发中使用的场景。
 
 ## Redux
 ### 教程
@@ -33,17 +32,24 @@
 [so-youve-screwed-up-your-redux-store-or-why-redux-makes-refactoring-easy](https://blog.boldlisting.com/so-youve-screwed-up-your-redux-store-or-why-redux-makes-refactoring-easy-400e19606c71?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_32#.1po5f1k30) | 主要讲述了对reducers的几种改进方式来对redux进行重构。
 [The Redux Journey](https://www.youtube.com/watch?v=uvAXVMwHJXU&feature=youtu.be) | Dan在react-europe 2016上关于redux一年发展过程的总结，并且示范了如何使用redux的优秀特性。
 
-## GraphQL && Relay
-### 教程
+## CSS Modules
+### 文章
 名称 | 简介
 ---- | ----
-[https://learngraphql.com](https://learngraphql.com) | 非常详细的介绍了graphql的基础用法，很好的入门教程。
+[What are CSS Modules? A visual introduction](http://andrewhfarmer.com/what-are-css-modules/) | 介绍了什么是css modules，以及它是如何解决css global问题的。
+[CSS Modules by Example](http://andrewhfarmer.com/css-modules-by-example) | 7个例子涵盖了css modules在React开发中使用的场景。
 
 ## Webpack
 ### 教程
 名称 | 简介
 ---- | ----
 [http://survivejs.com/webpack/introduction/](http://survivejs.com/webpack/introduction/) | 目前看过最全面，也是唯一一本专门介绍webpack的书（webpack是个巨坑＝＝）。
+
+## GraphQL && Relay
+### 教程
+名称 | 简介
+---- | ----
+[https://learngraphql.com](https://learngraphql.com) | 非常详细的介绍了graphql的基础用法，很好的入门教程。
 
 ## 其他
 名称 | 简介
