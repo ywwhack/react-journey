@@ -19,6 +19,7 @@
 [初识React中的High Order Component](https://leozdgao.me/chushi-hoc/) | 介绍了react中的高阶组件，通俗易懂，顺带还提了下react-redux中的connect的实现。
 [React Higher Order Components in depth](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.4twzbtufq) | 介绍了高阶组件(HOC)的两种实现方式，以及如何通过它来重用代码、操作WrappedComponent的props/state，render劫持等等。
 [Progressive loading for modern web applications via code splitting](https://medium.com/@lavrton/progressive-loading-for-modern-web-applications-via-code-splitting-fb43999735c6#.yi8ev5c95) | 介绍了如何使用require.ensure来实现code-split，同时实现延迟加载。
+[深度剖析：如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13) | vdom = v-tree + diff + patch
 
 ## Redux
 ### 教程
