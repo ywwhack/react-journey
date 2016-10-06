@@ -1,12 +1,13 @@
 # React 相关的优秀资源
-以下列出的资源主要来自自己学习react过程中看过的觉的不错的文章、教程以及各种神坑的解决方案，也算是一个学习过程的记录。(ps:教程和文章有时候并没有严格区分，在这里我只是把需要花比较长时间研究的称作教程)
+以下列出的资源主要来自自己学习react过程中看过的觉的不错的文章、教程，也算是一个学习过程的记录。
 
 ## React
 ### 教程
 名称  |  简介
 ---- | ----
-[reactjsprogram](http://www.reactjsprogram.com/) | 强烈建议英文好的童鞋去看看，第一部分是带着你从零构建一个github相关的小项目，讲了很多react重要的概念，作为入门和建立正确的react方法论很有用。该系列分react基础、es6/es7与react的结合、Redux+Immutable、react native和universal react，只有第一部分是免费的，其余都是付费的（相当贵）。
-[fullstackreact](https://www.fullstackreact.com/) | 整本书会涉及好几个项目的构建，由易到难。第一个项目是一个类似stackoverflow的投票系统，非常基础，没有es6，没有webpack，只是单纯的教你如何使用Component的思想开发应用。第二个应用展示了搭建react app的正确步骤，并在上一个应用的基础上加了服务端数据的获取。
+[fullstackreact](https://www.fullstackreact.com/) | 如果只看一个react教程，并且希望全面的了解其生态圈，这本书就够了。
+[reactjsprogram](http://www.reactjsprogram.com/) | 有几个大的系列(redux/react native等)，其中react基础部分是免费的，内容对初学者来说很优质。
+
 
 ### 文章
 名称  |  简介
