@@ -47,6 +47,7 @@
 名称 | 简介
 ---- | ----
 [http://survivejs.com/webpack/introduction/](http://survivejs.com/webpack/introduction/) | 目前看过最全面，也是唯一一本专门介绍webpack的书（webpack是个巨坑＝＝）。
+[Webpack Deep Dive](https://frontendmasters.com/courses/webpack) | 深入介绍如何在项目中使用webpack2。视频是workshop上录制的，有现场讲师和学生的提问互动，非常赞。
 
 ## GraphQL && Relay
 ### 教程
