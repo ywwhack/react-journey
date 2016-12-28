@@ -43,6 +43,10 @@
 [CSS Modules by Example](http://andrewhfarmer.com/css-modules-by-example) | 7个例子涵盖了css modules在React开发中使用的场景。
 
 ## Webpack
+### 文章
+名称 | 简介
+---- | ----
+[Webpack中hash与chunkhash的区别，以及js与css的hash指纹解耦方案](http://www.cnblogs.com/ihardcoder/p/5623411.html) | 比较深入的介绍了hash和chunkhash的一些东西
 ### 教程
 名称 | 简介
 ---- | ----
