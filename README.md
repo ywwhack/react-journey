@@ -22,6 +22,7 @@
 [Progressive loading for modern web applications via code splitting](https://medium.com/@lavrton/progressive-loading-for-modern-web-applications-via-code-splitting-fb43999735c6#.yi8ev5c95) | 介绍了如何使用require.ensure来实现code-split，同时实现延迟加载。
 [深度剖析：如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13) | vdom = v-tree + diff + patch
 [React: Implementation Notes](https://facebook.github.io/react/contributing/implementation-notes.html) | fb官方出的一篇关于如何实现react的教程。
+[react-interview-questions](https://tylermcginnis.com/react-interview-questions/) | react相关的"面试题", 很有意思
 
 ## Redux
 ### 教程
