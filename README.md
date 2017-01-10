@@ -14,14 +14,10 @@
 ---- | ----
 [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.3tk94s6k0) | 介绍了react中Presentational和Container Components的概念和区别，以及使用场景
 [React Components, Elements, and Instances](https://facebook.github.io/react/blog/2015/12/18/react-components-elements-and-instances.html) | 详细介绍了React中令人困惑的Component和Element的区别，以及React底层是如何将Component解析为DOM树的。
-[reactjs源码分析-上篇（首次渲染实现原理）](http://purplebamboo.github.io/2015/09/15/reactjs_source_analyze_part_one/) | 研究React源码的入门指南，非常赞，全篇围绕React的渲染方法render展开讲解，递进的引入Component,ReactElement,ReactClass，对之后的源码阅读很有帮助。
 [Learning React Without Using React](https://medium.com/javascript-inside/learn-the-concepts-part-1-418952d968cb#.6e7z5tvgq) | 作者抛开react库本身，围绕react中的render方法,virtual DOM,Component,单向数据流动等概念，实现了一个todolist的例子，demo虽易，但是思想非常棒。
 [React.js in patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_38) | react的设计模式
 [初识React中的High Order Component](https://leozdgao.me/chushi-hoc/) | 介绍了react中的高阶组件，通俗易懂，顺带还提了下react-redux中的connect的实现。
 [React Higher Order Components in depth](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.4twzbtufq) | 介绍了高阶组件(HOC)的两种实现方式，以及如何通过它来重用代码、操作WrappedComponent的props/state，render劫持等等。
-[Progressive loading for modern web applications via code splitting](https://medium.com/@lavrton/progressive-loading-for-modern-web-applications-via-code-splitting-fb43999735c6#.yi8ev5c95) | 介绍了如何使用require.ensure来实现code-split，同时实现延迟加载。
-[深度剖析：如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13) | vdom = v-tree + diff + patch
-[React: Implementation Notes](https://facebook.github.io/react/contributing/implementation-notes.html) | fb官方出的一篇关于如何实现react的教程。
 [react-interview-questions](https://tylermcginnis.com/react-interview-questions/) | react相关的"面试题", 很有意思
 
 ## Redux
@@ -48,6 +44,7 @@
 名称 | 简介
 ---- | ----
 [Webpack中hash与chunkhash的区别，以及js与css的hash指纹解耦方案](http://www.cnblogs.com/ihardcoder/p/5623411.html) | 比较深入的介绍了hash和chunkhash的一些东西
+[Progressive loading for modern web applications via code splitting](https://medium.com/@lavrton/progressive-loading-for-modern-web-applications-via-code-splitting-fb43999735c6#.yi8ev5c95) | 介绍了如何使用require.ensure来实现code-split，同时实现延迟加载。
 ### 教程
 名称 | 简介
 ---- | ----
@@ -77,6 +74,9 @@
 
 ## Advanced
 * [React PureComponent 源码解析](https://segmentfault.com/a/1190000006741060)
+* [深度剖析：如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13)
+* [React: Implementation Notes](https://facebook.github.io/react/contributing/implementation-notes.html)
+* [reactjs源码分析-上篇（首次渲染实现原理）](http://purplebamboo.github.io/2015/09/15/reactjs_source_analyze_part_one/)
 
 ## Newsletter
 * [http://reactjsnewsletter.com/](http://reactjsnewsletter.com/)
