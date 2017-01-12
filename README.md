@@ -77,6 +77,7 @@
 * [深度剖析：如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13)
 * [React: Implementation Notes](https://facebook.github.io/react/contributing/implementation-notes.html)
 * [reactjs源码分析-上篇（首次渲染实现原理）](http://purplebamboo.github.io/2015/09/15/reactjs_source_analyze_part_one/)
+* [dive-into-react-codebase-transactions](http://reactkungfu.com/2015/12/dive-into-react-codebase-transactions/)
 
 ## Newsletter
 * [http://reactjsnewsletter.com/](http://reactjsnewsletter.com/)
