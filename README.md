@@ -78,6 +78,7 @@
 * [React: Implementation Notes](https://facebook.github.io/react/contributing/implementation-notes.html)
 * [reactjs源码分析-上篇（首次渲染实现原理）](http://purplebamboo.github.io/2015/09/15/reactjs_source_analyze_part_one/)
 * [dive-into-react-codebase-transactions](http://reactkungfu.com/2015/12/dive-into-react-codebase-transactions/)
+* [React 源码剖析系列 － 解密 setState](https://zhuanlan.zhihu.com/p/20328570)
 
 ## Newsletter
 * [http://reactjsnewsletter.com/](http://reactjsnewsletter.com/)
