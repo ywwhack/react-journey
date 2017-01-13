@@ -19,6 +19,7 @@
 [初识React中的High Order Component](https://leozdgao.me/chushi-hoc/) | 介绍了react中的高阶组件，通俗易懂，顺带还提了下react-redux中的connect的实现。
 [React Higher Order Components in depth](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.4twzbtufq) | 介绍了高阶组件(HOC)的两种实现方式，以及如何通过它来重用代码、操作WrappedComponent的props/state，render劫持等等。
 [react-interview-questions](https://tylermcginnis.com/react-interview-questions/) | react相关的"面试题", 很有意思
+[How to develop a React library](http://cloudinary.com/blog/how_to_develop_a_react_library?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_59) | 介绍了如何开发一个react相关的库(组件)，便于其他开发者集成到自己的应用中
 
 ## Redux
 ### 教程
